@@ -1,4 +1,5 @@
 #pragma warning(disable : 4996)
+//Compiler Warning (level 3) C4996
 #include<iostream>
 #include<string>
 
